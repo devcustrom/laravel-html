@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "build": "mix",
+    "watch": "mix watch",
+    "prod": "mix --production"
+  },
+  "devDependencies": {
+    "@csstools/postcss-sass": "^5.0.0",
+    "autoprefixer": "^10.4.2",
+    "browser-sync": "^2.27.7",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "filename-regex": "^2.0.1",
+    "laravel-mix": "^6.0.43",
+    "mix-html-builder": "^0.8.0",
+    "postcss": "^8.4.6",
+    "postcss-gap": "^1.0.0",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^3.0.23"
+  },
+  "dependencies": {
+    "alpinejs": "^3.9.0"
+  }
+}
